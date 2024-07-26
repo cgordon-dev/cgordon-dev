@@ -31,9 +31,9 @@
 <h3> 🤝🏻  Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/cgordon718/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carl%20Gordon-orange?style=flat-square&logo=linkedin"></a>
-<a href="cgordon.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cgordon.dev@gmail.com-orange?style=flat-square&logo=gmail"></a>
+<a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/cgordon718/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carl%20Gordon-orange?style=flat-square&logo=linkedin"></a>
+<a href="mailto:cgordon.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cgordon.dev@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 <!---
 cgordon-dev/cgordon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
