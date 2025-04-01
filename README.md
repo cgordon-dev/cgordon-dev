@@ -1,7 +1,3 @@
-Certainly, here’s an enhanced version of your README that highlights your background, interests, and technical expertise:
-
-⸻
-
 Hey there! I’m Carl.
 
 👨🏻‍💻 About Me
